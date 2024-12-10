@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzaLeo</string>
+    <string name="title_home">Menu</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">Ensaladas</string>
+
+    <string name="pizza_image">Imagen de pizza</string>
+
+</resources>
